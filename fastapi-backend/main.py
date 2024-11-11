@@ -5,7 +5,7 @@ from ultralytics import YOLO
 import cv2
 import shutil
 import os
-import time
+
 
 app = FastAPI()
 
